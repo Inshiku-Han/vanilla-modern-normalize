@@ -1,0 +1,15 @@
+{
+  "name": "vanilla-modern-normalize",
+  "version": "1.0.0",
+  "description": "moder-normalize for vanilla extract",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/insik-han/vanilla-modern-normalize"
+  },
+  "main": "modern-normalize.css.ts",
+  "author": "insik-han",
+  "license": "MIT",
+  "dependencies": {
+    "@vanilla-extract/css": "^1.6.8"
+  }
+}
