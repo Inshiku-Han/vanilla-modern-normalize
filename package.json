@@ -1,7 +1,7 @@
 {
   "name": "vanilla-modern-normalize",
-  "version": "1.0.0",
-  "description": "moder-normalize for vanilla extract",
+  "version": "1.0.1",
+  "description": "modern-normalize for vanilla extract",
   "repository": {
     "type": "git",
     "url": "https://github.com/insik-han/vanilla-modern-normalize"
